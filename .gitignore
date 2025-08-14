@@ -1,0 +1,26 @@
+# 環境設定ファイル（機密情報を含む可能性あり）
+Param.env
+ParamW.env
+
+# Google API認証関連ファイル（個人情報や認証情報を含む）
+client_secret.json
+credentials.json
+token.json
+
+*/config.json
+
+# Pythonのキャッシュフォルダ（不要なバイナリファイル）
+__pycache__/
+*/__pycache__/
+
+# Jupyter Notebookのチェックポイント（自動保存ファイル）
+.ipynb_checkpoints/
+
+# 出力フォルダ（生成物や一時ファイル）
+/output/
+/test/
+/ver/
+/gui/
+
+# スクリプトファイル（必要に応じて除外）
+generate_style_tree.py

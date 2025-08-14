@@ -1,0 +1,7 @@
+{
+  "ngrokUrls": {
+    "work": "https://your-work-ngrok-url.ngrok-free.app",
+    "home": "https://your-home-ngrok-url.ngrok-free.app"
+  },
+  "saveDirectory": "YOUR/OUTPUT/DIRECTORY/PATH"
+}
